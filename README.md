@@ -1,11 +1,13 @@
-# Data Scientist
+# Data Scientist | Machine Learning Engineer | Business Analyst | Blogger 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Analytics Tools: Tableau, RapidMiner, Pandas , Gurobi, numPy, Scikit-learn, TensorFlow, Keras, dplyr, Hadoop, Spark
+#### Languages: Python, R, SQL, C++
+#### Techniques: Statistical data Analysis & modeling, Visualization, Optimization
 
 ## Education							       		
 - M.S., Science in Business Analytics	| EMORY UNIVERSITY – GOIZUETA BUSINESS SCHOOL  (_May 2024_)
 - M.S., Science in Information Technology	| CARGENIE MELLON UNIVERSITY – SCHOOL OF ENGINEERING   (_May 2023_)	  			        		
-- B.S., Science in Information Systems | University Of Rwanda (_November 2020_)
+- B.S., Science in Information Systems | UNIVERSITY OF RWANDA -SCHOOL OF ICT (_November 2020_)
 
 ## Work Experience
 **Data Science Consultant - Emory Experiential Capstone @ Bank Of America (_January 2024 - Present_)**
@@ -32,18 +34,10 @@ Led critical data analysis initiatives, directly enhancing decision-making effic
 
 ![Marketing Targeting](marketing.jpg)
 
-## Leadership Experiences & Community Development Activities 
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Additional Information 
 
-- [Data Science YouTube](https://www.youtube.com/chennel/maliki_uwase)
+•	STEM credential offers up to three years of U.S. Work Authorization eligibility 
+•	Owner of Datawise Impact, which is a brand focused on public education on Navigating business Success with data science
+•	Class Representative for Master of Science In Business Analytics Class 2024
+•	Peer Facilitator for Emory Experiential Capstone
 
-## Publications
-1. Maliki U, Elie T, Prince B, Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Maliki, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-
-- [Data Science Blog](https://datawiseimpact.com)
