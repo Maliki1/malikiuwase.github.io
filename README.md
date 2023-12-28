@@ -21,7 +21,7 @@ Led critical data analysis initiatives, directly enhancing decision-making effic
 
 ## Data Science Projects
 ### MovieMatch (Elevating Viewing with Smart Recommendations)
-[Publication](https://www.github.com/Maliki1/)
+[Look for the repo for MovieMatch prediction project here](https://github.com/Maliki1/MovieMatch)
 
 •	Utilized advanced machine learning techniques, including tree-based models, neural networks, and XGBoost, to predict click-through rates for online ads, achieved a 72% success rate. The project involved analyzing over 30 million records, emphasizing the practical application of data science in enhancing online ad engagement
 
