@@ -28,7 +28,7 @@ Led critical data analysis initiatives, directly enhancing decision-making effic
 ![Movie Industry](movie.jpg)
 
 ### AdClick Predictor (Enhancing Online Ad Engagement)                                            
-[Publication](https://www.github.com/Maliki1/AdClick_Predictor)
+[Publication](https://github.com/Maliki1/AdClick_Predictor)
 
 •	Leveraged advanced machine learning algorithms, notably a Regressor Tree and KNN, to enhance user movie selection experiences. The Regressor Tree excelled in accuracy, while KNN's performance scaled with increased data, making it a suitable choice for real-time recommendations. Despite the Regressor Tree's lower MAE, KNN was chosen for its faster response times, critical for an engaging user experience
 
