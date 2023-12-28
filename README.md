@@ -21,14 +21,14 @@ Led critical data analysis initiatives, directly enhancing decision-making effic
 
 ## Data Science Projects
 ### MovieMatch (Elevating Viewing with Smart Recommendations)
-[Publication](https://www.github.com/Maliki1)
+[Publication](https://www.github.com/Maliki1/)
 
 •	Utilized advanced machine learning techniques, including tree-based models, neural networks, and XGBoost, to predict click-through rates for online ads, achieved a 72% success rate. The project involved analyzing over 30 million records, emphasizing the practical application of data science in enhancing online ad engagement
 
 ![Movie Industry](movie.jpg)
 
 ### AdClick Predictor (Enhancing Online Ad Engagement)                                            
-[Publication](https://www.github.com/Maliki1)
+[Publication](https://www.github.com/Maliki1/AdClick_Predictor)
 
 •	Leveraged advanced machine learning algorithms, notably a Regressor Tree and KNN, to enhance user movie selection experiences. The Regressor Tree excelled in accuracy, while KNN's performance scaled with increased data, making it a suitable choice for real-time recommendations. Despite the Regressor Tree's lower MAE, KNN was chosen for its faster response times, critical for an engaging user experience
 
