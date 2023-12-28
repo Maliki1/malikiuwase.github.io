@@ -36,8 +36,8 @@ Led critical data analysis initiatives, directly enhancing decision-making effic
 
 ## Additional Information 
 
-•	STEM credential offers up to three years of U.S. Work Authorization eligibility 
-•	Owner of Datawise Impact, which is a brand focused on public education on Navigating business Success with data science
-•	Class Representative for Master of Science In Business Analytics Class 2024
-•	Peer Facilitator for Emory Experiential Capstone
+- STEM credential offers up to three years of U.S. Work Authorization eligibility 
+- Owner of Datawise Impact, which is a brand focused on public education on Navigating business Success with data science
+- Class Representative for Master of Science In Business Analytics Class 2024
+- Peer Facilitator for Emory Experiential Capstone
 
