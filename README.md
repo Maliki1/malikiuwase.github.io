@@ -1,4 +1,4 @@
-# Data Scientist | Machine Learning Engineer | Business Analyst | Blogger 
+# Data Scientist | Machine Learning Engineer | Business Analyst | blogger 
 
 #### Analytics Tools: Tableau, RapidMiner, Pandas , Gurobi, numPy, Scikit-learn, TensorFlow, Keras, dplyr, Hadoop, Spark
 #### Languages: Python, R, SQL, C++
