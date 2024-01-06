@@ -35,7 +35,7 @@ Led critical data analysis initiatives, directly enhancing decision-making effic
 ![Marketing Targeting](marketing.jpg)
 
 ### Data Viz (Interactive Dashboard)                                            
-[here  is the sample of my data visualizations](https://public.tableau.com/app/profile/maliki.uwase/vizzes)
+[Here is the sample of created Dashboards](https://public.tableau.com/app/profile/maliki.uwase/vizzes)
 
 •	dedicated myself to transforming complex data into compelling and insightful visual stories. My portfolio showcased on Tableau Public, is a testament to my expertise in using Tableau to create intuitive and interactive dashboards. These visualizations highlight key data trends and patterns and make data-driven insights accessible to a broad audience. Please feel free to explore my work and see how I bring data to life.
 
